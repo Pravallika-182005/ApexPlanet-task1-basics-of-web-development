@@ -1,12 +1,12 @@
 # ApexPlanet-task1-basics-of-web-development
 
-NAME:
+NAME:Avula Venkata Naga Pravallika
 
-INTERN ID:
+INTERN ID:APSPL2639874
 
-COMPANY NAME:
+COMPANY NAME:ApexPlanet Software Pvt.ltd
 
-DURATION:
+DURATION:21 june 2026 to 04 August 2026
 
 OUTPUT:
 
