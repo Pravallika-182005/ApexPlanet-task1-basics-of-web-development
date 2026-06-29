@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Development Project</title>
+</head>
+<body style="font-family: Arial; text-align:center; background-color:#f0f8ff;">
+
+    <!-- Popup Image -->
+    <div id="popup" style="position:fixed; top:0; left:0; width:100%; height:100%;
+         background:rgba(0,0,0,0.8); display:flex; justify-content:center; align-items:center;">
+
+        <div style="position:relative;">
+            <span onclick="document.getElementById('popup').style.display='none'"
+                  style="position:absolute; top:-15px; right:-15px; background:red;
+                  color:white; width:30px; height:30px; border-radius:50%;
+                  cursor:pointer; line-height:30px; font-size:20px;">&times;</span>
+
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200"
+                 alt="Web Development"
+                 width="600">
+        </div>
+    </div>
+
+    <h1>🚀 Welcome to Web Development</h1>
+
+    <p>Learn HTML, CSS, and JavaScript to create modern websites.</p>
+
+    <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200"
+         alt="Web Development"
+         width="400">
+
+    <br><br>
+
+    <a href="https://www.google.com" target="_blank">Visit Google</a>
+
+    <br><br>
+
+    <button onclick="alert('Welcome to Web Development!')">
+        Click Me
+    </button>
+
+</body>
+</html>
